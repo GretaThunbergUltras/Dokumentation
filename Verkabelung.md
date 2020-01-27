@@ -11,6 +11,20 @@ GND | PIN6
 
 ![raspberry pi 3 pinout](assets/pinout.png)
 
+## Ultraschallsensoren
+
+Board | Sensor
+---|---
+S0 | 1
+S1 | 2
+S2 | 3
+S3 | 4
+S4 | 5
+S5 | 6
+S6 | 7
+
+![abstandssensoren](assets/abstandssensoren.jpg)
+
 ## BrickPi3
 
 Port | Motor | Kabellänge (je niedriger, desto kürzer)
