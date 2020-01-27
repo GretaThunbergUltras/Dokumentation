@@ -1,4 +1,4 @@
-# Konstruktion
+# Dokumentation
 
 - [Verkabelung](Verkabelung.md)
 - [Themengebiete](Themengebiete.md)
