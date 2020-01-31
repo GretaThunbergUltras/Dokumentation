@@ -2,7 +2,7 @@
 
 Board | Raspberry Pi
 ---|---
-INT | PIN7
+INT | PIN25
 SDA | PIN3
 SCL | PIN5
 VCC | PIN1
