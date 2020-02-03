@@ -19,15 +19,15 @@ GND | PIN6
 
 ## Ultraschallsensoren
 
-Board | Sensor
----|---
-S0 | 1
-S1 | 2
-S2 | 3
-S3 | 4
-S4 | 5
-S5 | 6
-S6 | 7
+Board | Sensor | Name
+---|---|---
+S0 | 1 | LEFT
+S1 | 2 | LEFT45
+S2 | 3 | LEFT_FRONT
+S3 | 4 | RIGHT_FRONT
+S4 | 5 | RIGHT45
+S5 | 6 | RIGHT
+S6 | 7 | BACK
 
 ![abstandssensoren](assets/abstandssensoren.jpg)
 
