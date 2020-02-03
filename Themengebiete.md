@@ -32,6 +32,9 @@
 |Patrick | Rechts vor links | Linie folgen|
 |Laurin |   | Ultraschall-Sensor|
 |Enrico |   | OpenCV (Kreuzung, Fahrzeug(seite))|
+| | | |
+|Andreas|Geradeausfahren|Übertragung Bilder via MQTT|
+|Elias |und Bilder machen| |
 
 
 ## Bitte noch einsortieren
@@ -44,4 +47,4 @@
 |Michael | LKW abladen|
 |Tobias |   |
 
-Andreas, Cassian, Elias, Jasmin, Louis, Michael
+Cassian, Jasmin, Louis, Michael
